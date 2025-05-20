@@ -1,0 +1,547 @@
+[
+  {
+    "question_id": "LN6Ii",
+    "question": "Why is the woman insistent that the boy gets back in the car?",
+    "assigned_categories": [
+      "Knowledge",
+      "Percepts"
+    ],
+    "options": {
+      "A": "Because she is afraid the boy will get hurt if he stays outside too long and wants to get him back in the car for safety.",
+      "B": "Because she sees something suspicious in the area and wants to move quickly to avoid trouble.",
+      "C": "Because she realizes they are running late and needs to get back on the road to continue their trip.",
+      "D": "Because she hears sirens and does not want to interact with the police, so she wants to leave the area."
+    },
+    "correct_answer": "Because she hears sirens and does not want to interact with the police, so she wants to leave the area.",
+    "movie_title": "WATCH OVER ME",
+    "video_url": "https://www.youtube.com/watch?v=KBmqKIDstm0",
+    "t_i": 141.80249716231555,
+    "t_j": 160.94583427922817,
+    "multimodal_cues": null
+  },
+  {
+    "question_id": "oQ15n",
+    "question": "What is the woman feeling when she pulls the item out of the cardboard box?",
+    "assigned_categories": [
+      "Emotions"
+    ],
+    "options": {
+      "A": "She feels nervous.",
+      "B": "She feels confused. ",
+      "C": "She feels surprised.",
+      "D": "She feels excited."
+    },
+    "correct_answer": "She feels confused. ",
+    "movie_title": "MARYAM JOON",
+    "video_url": "https://www.youtube.com/watch?v=F7zhrgIbtFM",
+    "t_i": 95.91571177438307,
+    "t_j": 116.14793222679201,
+    "multimodal_cues": [
+      "Face Expression and Gaze",
+      "Body Language"
+    ]
+  },
+  {
+    "question_id": "l6YOO",
+    "question": "What is the emotional progression of the woman in this scene?",
+    "assigned_categories": [
+      "Emotions"
+    ],
+    "options": {
+      "A": "Annoyance → Anger → Embarrassment",
+      "B": "Confusion → Realization → Fear",
+      "C": "Annoyance →  Realization →  Embarrassment",
+      "D": "Confusion → Realization →  Relief"
+    },
+    "correct_answer": "Confusion → Realization → Fear",
+    "movie_title": "THE FORFEIT",
+    "video_url": "https://www.youtube.com/watch?v=IOIfabp4pLE",
+    "t_i": 639.903177506463,
+    "t_j": 677.7201615581669,
+    "multimodal_cues": [
+      "Body Language",
+      "Speech-related"
+    ]
+  },
+  {
+    "question_id": "7zduy",
+    "question": "Why is the girl upset with the woman in the pink and white shirt?",
+    "assigned_categories": [
+      "Knowledge",
+      "Beliefs",
+      "Percepts"
+    ],
+    "options": {
+      "A": "Because, as a child, she thought the woman was ignoring her on purpose, even though that wasn’t the intention at all.",
+      "B": "Because, as a child, she hasn't yet understood why people with disabilities are differentiated from the rest of the population.",
+      "C": "Because, as a child, she assumed that the woman’s behavior meant she didn’t like her or want her around.",
+      "D": "Because, as a child, she misinterpreted the woman’s actions and thought she was being blamed for something unfair."
+    },
+    "correct_answer": "Because, as a child, she hasn't yet understood why people with disabilities are differentiated from the rest of the population.",
+    "movie_title": "CODA",
+    "video_url": "https://www.youtube.com/watch?v=m-l8eAOW6Kc",
+    "t_i": 165.6103745848589,
+    "t_j": 188.2806068665776,
+    "multimodal_cues": [
+      "Face Expression and Gaze",
+      "Body Language"
+    ]
+  },
+  {
+    "question_id": "fNHlR",
+    "question": "Why didn't the girl in the red jacket greet the girl in the blue jacket when she came in?",
+    "assigned_categories": [
+      "Percepts"
+    ],
+    "options": {
+      "A": "She didn’t greet her because she assumed the girl in the blue jacket wasn’t looking for her.",
+      "B": "She didn’t greet her because she assumed the girl didn’t want to be bothered.",
+      "C": "She didn't greet her because she didn't see her since her back was turned.",
+      "D": "She didn’t greet her because she thought it might have been the wrong time."
+    },
+    "correct_answer": "She didn't greet her because she didn't see her since her back was turned.",
+    "movie_title": "3 MINUTES OF SILENCE ft. Bella Ramsey",
+    "video_url": "https://www.youtube.com/watch?v=mhxEnIp7YIg",
+    "t_i": 327.1782436598806,
+    "t_j": 348.40230469435875,
+    "multimodal_cues": [
+      "Body Language"
+    ]
+  },
+  {
+    "question_id": "FEVod",
+    "question": "What is the man trying to tell the woman with his left hand while taking a picture?",
+    "assigned_categories": [
+      "Intentions",
+      "Non-literal communication"
+    ],
+    "options": {
+      "A": "He wants the woman to smile a little more.",
+      "B": "He wants the woman to move slightly to his right.",
+      "C": "He wants the people behind her to move so he can take the photo.",
+      "D": "He’s asking the woman to switch her pose."
+    },
+    "correct_answer": "He wants the woman to move slightly to his right.",
+    "movie_title": "ON SECOND THOUGHT",
+    "video_url": "https://www.youtube.com/watch?v=66oF2UA98jI",
+    "t_i": 222.55025328679244,
+    "t_j": 226.91398374339622,
+    "multimodal_cues": [
+      "Body Language"
+    ]
+  },
+  {
+    "question_id": "imK0k",
+    "question": "Why did the woman in the red coat have that reaction when she saw the crib?",
+    "assigned_categories": [
+      "Knowledge",
+      "Percepts"
+    ],
+    "options": {
+      "A": "She reacted that way because she thought the crib had been given away already.",
+      "B": "She reacted that way because she assumed no one would keep something so old.",
+      "C": "She reacted that way because she didn't know the crib would be there.",
+      "D": "She reacted that way because she thought the room had been cleared out entirely."
+    },
+    "correct_answer": "She reacted that way because she didn't know the crib would be there.",
+    "movie_title": "GROWING PAINS",
+    "video_url": "https://www.youtube.com/watch?v=jQlX7sS1HaY",
+    "t_i": 182.40816703733688,
+    "t_j": 215.61367532097003,
+    "multimodal_cues": [
+      "Face Expression and Gaze"
+    ]
+  },
+  {
+    "question_id": "jDaEs",
+    "question": "Why does the blonde woman state that she brought the wine? ",
+    "assigned_categories": [
+      "Desires",
+      "Intentions"
+    ],
+    "options": {
+      "A": "She is mentioning it because she believes the wine will be an important part of the celebration and wants to highlight that.",
+      "B": "She wants to be acknowledged and appreciated by her family. ",
+      "C": "She wants to set the tone for the evening, making sure everyone knows the wine is available and ready to be served.",
+      "D": "She is trying to make sure the family knows she contributed to the gathering and wants credit for it."
+    },
+    "correct_answer": "She wants to be acknowledged and appreciated by her family. ",
+    "movie_title": "TAPES",
+    "video_url": "https://www.youtube.com/watch?v=KrcVmkZsGvU",
+    "t_i": 173.9336017512755,
+    "t_j": 192.16245084311225,
+    "multimodal_cues": [
+      "Body Language"
+    ]
+  },
+  {
+    "question_id": "SAWDL",
+    "question": "Why does the woman tell the little girl that she cannot come on the journey?",
+    "assigned_categories": [
+      "Non-literal communication"
+    ],
+    "options": {
+      "A": "She wants the little girl to become independent and strong.",
+      "B": "She is using a white lie to hide the fact that she will be leaving the little girl soon.",
+      "C": "She is expressing guilt at being busy with her career.",
+      "D": "She is implying that as one grows up they have to do most things alone."
+    },
+    "correct_answer": "She is using a white lie to hide the fact that she will be leaving the little girl soon.",
+    "movie_title": "THE ROOM IN THE ELEPHANT",
+    "video_url": "https://www.youtube.com/watch?v=Hzk9AKT056w",
+    "t_i": 351.5084735241764,
+    "t_j": 361.9542933186609,
+    "multimodal_cues": [
+      "Face Expression and Gaze",
+      "Speech-related"
+    ]
+  },
+  {
+    "question_id": "ocdr6",
+    "question": "Why does the man stop the woman from putting makeup on him for the show?",
+    "assigned_categories": [
+      "Desires",
+      "Intentions"
+    ],
+    "options": {
+      "A": "He felt like the makeup artist was judging him and his looks so he felt anxious about her being so close to his face. ",
+      "B": "His insecurity regarding his masculinity compels him to stop her from putting makeup on him.",
+      "C": "He felt like she was putting too much makeup on him and that it would not look cohesive with the show. ",
+      "D": "He did not feel comfortable putting makeup on because he was scared that his dance partner would judge him."
+    },
+    "correct_answer": "His insecurity regarding his masculinity compels him to stop her from putting makeup on him.",
+    "movie_title": "THE CHOKE",
+    "video_url": "https://www.youtube.com/watch?v=DS0qm5aA4C4",
+    "t_i": 1014.9109908193042,
+    "t_j": 1055.19753396633,
+    "multimodal_cues": [
+      "Body Language"
+    ]
+  },
+  {
+    "question_id": "j-XrJ",
+    "question": "How does the older man know the younger man was lying?",
+    "assigned_categories": [
+      "Knowledge",
+      "Percepts"
+    ],
+    "options": {
+      "A": "The older man knew based on the fact that the young man's story seemed made up. ",
+      "B": "The older man knew based on his observations of the younger man's knuckles, which were unbruised. ",
+      "C": "The older man could tell by the young man's tone. ",
+      "D": "The older man knew because the young man smiled. "
+    },
+    "correct_answer": "The older man knew based on his observations of the younger man's knuckles, which were unbruised. ",
+    "movie_title": "LOST BOY",
+    "video_url": "https://www.youtube.com/watch?v=JfGDqKBlQFs",
+    "t_i": 391.8318118091873,
+    "t_j": 477.26264708833924,
+    "multimodal_cues": [
+      "Face Expression and Gaze"
+    ]
+  },
+  {
+    "question_id": "wLjFJ",
+    "question": "Why does the woman begin to move containers?",
+    "assigned_categories": [
+      "Beliefs",
+      "Intentions"
+    ],
+    "options": {
+      "A": "She thinks that shifting the containers will create a more practical living space and make daily routines easier for both of them.",
+      "B": "She thinks that moving the containers will make the apartment feel less oppressive and help her regain a sense of personal control.",
+      "C": "She thinks that reducing the clutter in the apartment will demonstrate her commitment to improving her condition in the eyes of the man.",
+      "D": "She thinks that rearranging the containers will distract the man from his frustrations long enough to keep him from leaving."
+    },
+    "correct_answer": "She thinks that reducing the clutter int he apartment will demonstrate her commitment to improving her condition in the eyes of the man.",
+    "movie_title": "MOTHER, CHILD",
+    "video_url": "https://www.youtube.com/watch?v=gyTgJ3gRcWk",
+    "t_i": 617.4596184201191,
+    "t_j": 679.8189507440054,
+    "multimodal_cues": null
+  },
+  {
+    "question_id": "T4vdp",
+    "question": "Why did the man offer the girl a slush ice?",
+    "assigned_categories": [
+      "Intentions"
+    ],
+    "options": {
+      "A": "He notices the girl looking at the food and thinks she wants it.",
+      "B": "He wants the girl to like him so he tries to please her with it.",
+      "C": "He wants to change the topic so the girl feels less awkward.",
+      "D": "He noticed the girl is sad and wants to cheer her up. "
+    },
+    "correct_answer": "He noticed the girl is sad and wants to cheer her up. ",
+    "movie_title": "THE REFEREE",
+    "video_url": "https://www.youtube.com/watch?v=VlK0ih62EVQ",
+    "t_i": 629.2857247012987,
+    "t_j": 650.7997665714286,
+    "multimodal_cues": null
+  },
+  {
+    "question_id": "cfJms",
+    "question": "Why didn't the woman in the white blouse respond to the friend who greeted her?",
+    "assigned_categories": [
+      "Knowledge",
+      "Desires",
+      "Non-literal communication"
+    ],
+    "options": {
+      "A": "Because she didn’t recognize the voice and wasn’t sure who was speaking.",
+      "B": "Because she was distracted and didn’t realize someone was speaking to her.",
+      "C": "Because she wasn’t in the mood to talk and chose to ignore it.",
+      "D": "Because she wanted to hide the fact that she wasn't deaf."
+    },
+    "correct_answer": "Because she wanted to hide the fact that she wasn't deaf.",
+    "movie_title": "CODA",
+    "video_url": "https://www.youtube.com/watch?v=m-l8eAOW6Kc",
+    "t_i": 689.0996608877726,
+    "t_j": 713.8359173657348,
+    "multimodal_cues": [
+      "Face Expression and Gaze"
+    ]
+  },
+  {
+    "question_id": "jsK5d",
+    "question": "How does the woman feel when her phone rings?",
+    "assigned_categories": [
+      "Emotions"
+    ],
+    "options": {
+      "A": "The woman is curious to know who is calling her.",
+      "B": "The woman is nervous that the call might be bad news.",
+      "C": "The woman is excited that someone is calling.",
+      "D": "The woman is annoyed by the call. "
+    },
+    "correct_answer": "The woman is annoyed by the call. ",
+    "movie_title": "GARFIELD",
+    "video_url": "https://www.youtube.com/watch?v=EZ6d5x83k8s",
+    "t_i": 516.9835862326674,
+    "t_j": 532.1627243431258,
+    "multimodal_cues": [
+      "Body Language",
+      "Speech-related"
+    ]
+  },
+  {
+    "question_id": "ho6cE",
+    "question": "Why does the man look out the window when he hears the car?",
+    "assigned_categories": [
+      "Beliefs",
+      "Percepts"
+    ],
+    "options": {
+      "A": "The man looks out the window to see how many people are in the car. ",
+      "B": "Because the man believes the woman lied to him about who is picking her up.",
+      "C": "The man looks out the window to see what car the woman's friend is driving. ",
+      "D": "He looks out the window to see if the car is big enough for him to ride with them. "
+    },
+    "correct_answer": "Because the man believes the woman lied to him about who is picking her up.",
+    "movie_title": "LOST BOY",
+    "video_url": "https://www.youtube.com/watch?v=JfGDqKBlQFs",
+    "t_i": 10.678854409893992,
+    "t_j": 117.46739850883392,
+    "multimodal_cues": [
+      "Face Expression and Gaze",
+      "Body Language"
+    ]
+  },
+  {
+    "question_id": "fL1sO",
+    "question": "Why does the little girl laugh at the old man?",
+    "assigned_categories": [
+      "Emotions"
+    ],
+    "options": {
+      "A": "His excitement amuses her.",
+      "B": "She is amused by his disgust.",
+      "C": "She wants the man to feel embarrassed.",
+      "D": "She is nervous so she laughs."
+    },
+    "correct_answer": "She is amused by his disgust.",
+    "movie_title": "THE REFEREE",
+    "video_url": "https://www.youtube.com/watch?v=VlK0ih62EVQ",
+    "t_i": 661.8538380258519,
+    "t_j": 675.480240573443,
+    "multimodal_cues": [
+      "Face Expression and Gaze",
+      "Speech-related"
+    ]
+  },
+  {
+    "question_id": "rj6ZV",
+    "question": "How does the man feel as he paces across the room?",
+    "assigned_categories": [
+      "Emotions"
+    ],
+    "options": {
+      "A": "He feels excited that something he’s waiting for is going to arrive.",
+      "B": "He feels nervous while waiting for something.",
+      "C": "He feels annoyance because something he’s waiting for hasn’t arrived.",
+      "D": "He feels remorse that what he's waiting for is arriving late."
+    },
+    "correct_answer": "He feels nervous while waiting for something.",
+    "movie_title": "JASMINE",
+    "video_url": "https://www.youtube.com/watch?v=WdCBplTHwk8",
+    "t_i": 182.2299409924528,
+    "t_j": 195.0866546207547,
+    "multimodal_cues": [
+      "Body Language"
+    ]
+  },
+  {
+    "question_id": "zmoeN",
+    "question": "Why does the bride's father wish the man in the green shirt a \"happy wedding day?\"",
+    "assigned_categories": [
+      "Emotions",
+      "Non-literal communication"
+    ],
+    "options": {
+      "A": "He is excited for the wedding.",
+      "B": "To show that he cares for his wellbeing.",
+      "C": "He wants the man to enjoy the wedding.",
+      "D": "To sarcastically express his anger. "
+    },
+    "correct_answer": "To sarcastically express his anger. ",
+    "movie_title": "THE FATHER",
+    "video_url": "https://www.youtube.com/watch?v=M_Ho-dnkadI",
+    "t_i": 306.6715345910694,
+    "t_j": 312.82959753466525,
+    "multimodal_cues": [
+      "Speech-related"
+    ]
+  },
+  {
+    "question_id": "0Ss8v",
+    "question": "Why does the boy turn to look at the man with the glasses?",
+    "assigned_categories": [
+      "Percepts"
+    ],
+    "options": {
+      "A": "The boy turns to the man with the glasses for help opening his pencil case. ",
+      "B": "The boy looks at him because he wants him to leave him alone. ",
+      "C": "The boy looks at him because he hears the man's phone ring.",
+      "D": "The boy looks at him because the man calls his name. "
+    },
+    "correct_answer": "The boy looks at him because he hears the man's phone ring.",
+    "movie_title": "FATHER FIGURE",
+    "video_url": "https://www.youtube.com/watch?v=RvlQWwAFL-A",
+    "t_i": 54.691352352,
+    "t_j": 96.360954144,
+    "multimodal_cues": [
+      "Face Expression and Gaze",
+      "Body Language"
+    ]
+  },
+  {
+    "question_id": "vNP57",
+    "question": "What was the man looking for when he turned the music on?",
+    "assigned_categories": [
+      "Desires",
+      "Intentions"
+    ],
+    "options": {
+      "A": "He wanted to distract the woman from their argument with another atmosphere",
+      "B": "He was trying to lighten up himself after the argument.",
+      "C": "He hoped the music would help him to process his own feelings and calm down.",
+      "D": "He was trying to get closer to the woman both physically and emotionally."
+    },
+    "correct_answer": "He was trying to get closer to the woman both physically and emotionally.",
+    "movie_title": "HERE IS NOW",
+    "video_url": "https://www.youtube.com/watch?v=EVOqMf4fqZg",
+    "t_i": 505.85023954557465,
+    "t_j": 593.2977543606343,
+    "multimodal_cues": [
+      "Body Language",
+      "Speech-related"
+    ]
+  },
+  {
+    "question_id": "pzH9i",
+    "question": "Why doesn't the man tell the girl not to hit the fish tanks?",
+    "assigned_categories": [
+      "Percepts"
+    ],
+    "options": {
+      "A": "The man didn't tell her because he wasn't looking at her, as he stood at the entrance of the store.",
+      "B": "The man didn’t tell her because he didn’t want to embarrass her, as he thought it wasn’t a big deal.",
+      "C": "The man didn’t tell her because he thought someone else would step in, as he was not in charge.",
+      "D": "The man didn’t tell her because he didn’t recognize her, as he had just walked into the store."
+    },
+    "correct_answer": "The man didn't tell her because he wasn't looking at her, as he stood at the entrance of the store.",
+    "movie_title": "THE HAMSTER",
+    "video_url": "https://www.youtube.com/watch?v=71dNBnY0tew",
+    "t_i": 85.47922843106348,
+    "t_j": 167.4754348986812,
+    "multimodal_cues": [
+      "Body Language"
+    ]
+  },
+  {
+    "question_id": "t5snr",
+    "question": "Why doesn't the girl with her hair down ignore the other girl calling her name?",
+    "assigned_categories": [
+      "Knowledge",
+      "Percepts"
+    ],
+    "options": {
+      "A": "The girl with her hair down does not hear the other girl calling her name. ",
+      "B": "The girl with her hair down thinks that the other girl is annoying and doesn't want to engage in conversation. ",
+      "C": "The girl with her hair down does not know that the other girl is angry. ",
+      "D": "The girl with her hair down does not like the girl who is calling her name, so she chooses to ignore her. "
+    },
+    "correct_answer": "The girl with her hair down does not know that the other girl is angry. ",
+    "movie_title": "THIS IS 25",
+    "video_url": "https://www.youtube.com/watch?v=k6TP5rlvIno",
+    "t_i": 368.8298895712603,
+    "t_j": 411.8763488315666,
+    "multimodal_cues": [
+      "Face Expression and Gaze",
+      "Speech-related"
+    ]
+  },
+  {
+    "question_id": "JxB7u",
+    "question": "Why does the older woman with short brown hair mention how she helps the elderly woman in the bathroom? \n\n",
+    "assigned_categories": [
+      "Desires"
+    ],
+    "options": {
+      "A": "She wants to make her daughters understand the reality of her condition. ",
+      "B": "She wanted an excuse to talk about how neat and clean the bathroom is.",
+      "C": "Because she is bragging about her caregiving skills. ",
+      "D": "She was hoping someone would volunteer to take over bathroom duty next time. "
+    },
+    "correct_answer": "She wants to make her daughters understand the reality of her condition. ",
+    "movie_title": "CLAC",
+    "video_url": "https://www.youtube.com/watch?v=EyEI09sRqek",
+    "t_i": 252.77279071899528,
+    "t_j": 306.27943984929357,
+    "multimodal_cues": [
+      "Face Expression and Gaze"
+    ]
+  },
+  {
+    "question_id": "nATfL",
+    "question": "What does the blonde-haired girl assume when she sees people talking?",
+    "assigned_categories": [
+      "Beliefs",
+      "Percepts"
+    ],
+    "options": {
+      "A": "She assumes they are planning a surprise for her since she is new. ",
+      "B": "She believes they are talking about drama within the family.",
+      "C": "She believes that they are probably judging her.",
+      "D": "She believes they want to steal her strategy for playing the game. "
+    },
+    "correct_answer": "She believes that they are probably judging her.",
+    "movie_title": "THE FORFEIT",
+    "video_url": "https://www.youtube.com/watch?v=IOIfabp4pLE",
+    "t_i": 154.86197138285712,
+    "t_j": 221.6461965417143,
+    "multimodal_cues": [
+      "Face Expression and Gaze"
+    ]
+  }
+]
