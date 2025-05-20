@@ -1,2 +1,2 @@
-# moments
-This repository contains the corpus for MoMentS
+# MoMentS
+This repository contains a sample of the MoMentS corpus for reviewing purposes.
