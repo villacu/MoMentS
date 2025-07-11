@@ -110,15 +110,6 @@ This script will:
 - Videos can be downloaded using [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - You can use [ffmpeg](https://ffmpeg.org/) to to trim each video to the respective context window.
 
-## Dataset Statistics
-
-- **Total Questions**: 2,344
-- **Number of Videos**: 168  
-- **Average Video Length**: 14.56 ± 4.65 minutes
-- **Question Length**: 12.64 ± 4.2 words
-- **Answer Length**: 14.62 ± 7.8 words
-- **Languages**: Primarily English (144 videos) with 11 videos in other languages
-
 ## Citation
 
 If you use MOMENTS in your research, please cite:
