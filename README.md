@@ -1,6 +1,5 @@
 # M<small>O</small>M<small>ENT</small>S: A Comprehensive Multimodal Benchmark for Theory of Mind
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2507.04415)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 MOMENTS (Multimodal Mental States) is a benchmark designed to evaluate Theory of Mind (ToM) capabilities of multimodal large language models through realistic, narrative-rich scenarios presented in short films.
@@ -82,12 +81,6 @@ If a video is unavailable during evaluation:
 2. If the video remains inaccessible, submit `"NA"` as the answer_key for the entries related to that video.
 3. Invalid entries will be excluded from accuracy computation
 
-### Submission
-
-To evaluate your model's performance:
-1. Generate predictions for all questions in the required JSON format
-2. Submit your predictions to [emilio.villa@mbzuai.ac.ae](mailto:emilio.villa@mbzuai.ac.ae)
-3. You will receive an accuracy report with global and per ToM ability scores within 1-3 working days
 
 *Note: An automated evaluation platform is currently under development.*
 
@@ -109,22 +102,6 @@ This script will:
 
 - Videos can be downloaded using [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - You can use [ffmpeg](https://ffmpeg.org/) to to trim each video to the respective context window.
-
-## Citation
-
-If you use MOMENTS in your research, please cite:
-
-```bibtex
-@misc{villacueva2025momentscomprehensivemultimodalbenchmark,
-      title={MOMENTS: A Comprehensive Multimodal Benchmark for Theory of Mind}, 
-      author={Emilio Villa-Cueva and S M Masrur Ahmed and Rendi Chevi and Jan Christian Blaise Cruz and Kareem Elzeky and Fermin Cristobal and Alham Fikri Aji and Skyler Wang and Rada Mihalcea and Thamar Solorio},
-      year={2025},
-      eprint={2507.04415},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2507.04415}, 
-}
-```
 
 ## License
 
