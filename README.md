@@ -81,6 +81,12 @@ If a video is unavailable during evaluation:
 2. If the video remains inaccessible, submit `"NA"` as the answer_key for the entries related to that video.
 3. Invalid entries will be excluded from accuracy computation
 
+### Submission
+
+To evaluate your model's performance:
+1. Generate predictions for all questions in the required JSON format
+2. Submit your predictions to [moments.evaluation@gmail.com](mailto:moments.evaluation@gmail.com)
+3. You will receive an accuracy report with global and per ToM ability scores within 1-3 working days
 
 *Note: An automated evaluation platform is currently under development.*
 
