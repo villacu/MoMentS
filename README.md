@@ -90,19 +90,9 @@ To evaluate your model's performance:
 
 *Note: An automated evaluation platform is currently under development.*
 
-## Updating unavailable URLs
+## Unavailable URLs
 
-Video URLs may occasionally change due to re-uploads. We will regularly update them in the question json. However, we also provide a script so you can update them in case the last version has unavailable URLs:
-
-```bash
-python scripts/update_urls.py --yt_key [YOUR_YOUTUBE_API_KEY] --annotations moments_questions.json --output moments_questions_updated.json --report_output url_update_report.json
-```
-
-This script will:
-- Check for broken or updated video URLs
-- Automatically update the `video_url` field in your annotations file
-- Ensure you have access to the latest video links
-- Generate a report on the replaced URLs.
+Video URLs may occasionally change (or be unavailable) due to re-uploads. We will regularly update them in the question json. 
 
 ## Video Processing
 
