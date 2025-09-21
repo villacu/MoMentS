@@ -92,7 +92,7 @@ To evaluate your model's performance:
 
 ## Unavailable URLs
 
-Video URLs may occasionally change (or be unavailable) due to re-uploads. We will regularly update them in the question json. 
+Video URLs may change (or be unavailable) due to re-uploads. We will regularly update them in the question json. 
 
 ## Video Processing
 
