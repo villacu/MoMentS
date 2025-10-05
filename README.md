@@ -1,8 +1,23 @@
 # M<small>O</small>M<small>ENT</small>S: A Comprehensive Multimodal Benchmark for Theory of Mind
 
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2507.04415)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 MOMENTS (Multimodal Mental States) is a benchmark designed to evaluate Theory of Mind (ToM) capabilities of multimodal large language models through realistic, narrative-rich scenarios presented in short films.
+
+
+### 🔄 Update (October 2025)
+
+* Several **video URLs** that were previously invalid have been **updated**.
+* We now provide an **open validation set** for model development and hyperparameter tuning.
+* Please refer to the [`MoMentS/data`](./MoMentS/data) folder for detailed usage instructions.
+* For **test set evaluation**, you may now either:
+
+  1. **Submit** your model predictions to [emilio.villa@mbzuai.ac.ae](mailto:emilio.villa@mbzuai.ac.ae), **or**
+  2. **Request access** to the **test set ground-truth labels** by completing and submitting the release form found at:
+     `MoMentS/data/test/moments_test_release_form.pdf`
+     *(PI signature required)*
+
 
 ## Overview
 
@@ -83,10 +98,10 @@ If a video is unavailable during evaluation:
 
 ### Submission
 
-To evaluate your model's performance:
-1. Generate predictions for all questions in the required JSON format
-2. Submit your predictions to [moments.evaluation@gmail.com](mailto:moments.evaluation@gmail.com)
-3. You will receive an accuracy report with global and per ToM ability scores within 1-3 working days
+To evaluate your model's performance, generate predictions for all questions in the required JSON format and either:
+   * Submit predictions to [emilio.villa@mbzuai.ac.ae](mailto:emilio.villa@mbzuai.ac.ae). You will receive an accuracy report with both global and per-category ToM ability scores within **1–3 working days**, **or**
+   * Request the test labels by completing `MoMentS/data/test/moments_test_release_form.pdf`.
+3
 
 *Note: An automated evaluation platform is currently under development.*
 
