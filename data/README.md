@@ -35,6 +35,3 @@ contains the **original full release** of the dataset.
 * Download videos using [yt-dlp](https://github.com/yt-dlp/yt-dlp).
 * Use [ffmpeg](https://ffmpeg.org/) to trim each video to its corresponding context window.
 
----
-
-Would you like me to make it slightly more *formal and academic* (e.g., for publication supplement style), or keep this *repository-readme tone* (friendly but precise)?

@@ -89,20 +89,13 @@ Submit your predictions in the following JSON format:
 ]
 ```
 
-### Handling Unavailable Videos
-
-If a video is unavailable during evaluation:
-1. First try updating URLs using the provided script (see below)
-2. If the video remains inaccessible, submit `"NA"` as the answer_key for the entries related to that video.
-3. Invalid entries will be excluded from accuracy computation
-
 ### Submission
 
 To evaluate your model's performance, generate predictions for all questions in the required JSON format and either:
    * Submit predictions to [emilio.villa@mbzuai.ac.ae](mailto:emilio.villa@mbzuai.ac.ae). You will receive an accuracy report with both global and per-category ToM ability scores within **1–3 working days**, **or**
    * Request the test labels by completing `MoMentS/data/test/moments_test_release_form.pdf`.
-3
 
+If a video is unavailable during evaluation, submit `"NA"` as the answer_key for the entries related to that video. Invalid entries *should* be excluded from accuracy computation.
 *Note: An automated evaluation platform is currently under development.*
 
 ## Unavailable URLs
