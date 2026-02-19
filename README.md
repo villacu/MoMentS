@@ -108,6 +108,7 @@ To evaluate your model's performance, generate predictions for all questions in 
 ## Unavailable URLs
 
 Video URLs may change (or be unavailable) due to re-uploads. We will regularly update them in the question json. 
+If you cannot access URLs to download the videos, we may be able to provide them upon request, please reach out to [emilio.villa@mbzuai.ac.ae](mailto:emilio.villa@mbzuai.ac.ae).
 
 ## Video Processing
 
